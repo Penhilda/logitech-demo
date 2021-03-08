@@ -197,19 +197,19 @@ a {
   .header__img {
     width: 100%;
     height: 230px;
-    background-image: url("../../img/small/MX-Master-1-sm.png");
+    background-image: url("../img/small/MX-Master-1-sm.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     margin-bottom: 4.2rem; }
     @media only screen and (min-width: 48em) {
       .header__img {
-        background-image: url("../../img/medium/MX-Master-1-md.png");
+        background-image: url("../img/medium/MX-Master-1-md.png");
         height: 514px;
         margin-bottom: 7.75rem; } }
     @media only screen and (min-width: 64em) {
       .header__img {
-        background-image: url("../../img/large/MX-Master-1-lg.png");
+        background-image: url("../img/large/MX-Master-1-lg.png");
         height: 671px;
         margin-bottom: 0.5rem;
         padding-top: 5rem; } }
