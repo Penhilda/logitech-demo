@@ -343,19 +343,19 @@ a {
   .bluetooth__img {
     width: 100%;
     height: 284px;
-    background-image: url("../../img/small/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE-1-sm.png");
+    background-image: url("../img/small/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE-1-sm.png");
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: contain; }
     @media only screen and (min-width: 48em) {
       .bluetooth__img {
-        background-image: url("../../img/medium/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE-1-md.png");
+        background-image: url("../img/medium/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE-1-md.png");
         height: 597px;
         width: 94%;
         margin: 0 auto; } }
     @media only screen and (min-width: 64em) {
       .bluetooth__img {
-        background: url("../../img/large/High_Resolution_PNG-MX-Master-3-FRONT-GRAPHITE-1-lg.png") no-repeat left 10rem, url("../../img/large/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE-1-lg.png") no-repeat right 10rem;
+        background: url("../img/large/High_Resolution_PNG-MX-Master-3-FRONT-GRAPHITE-1-lg.png") no-repeat left 10rem, url("../img/large/High_Resolution_PNG-MX-Master-3-LEFT-GRAPHITE-1-lg.png") no-repeat right 10rem;
         width: 100%;
         height: 427px;
         margin: 0; } }
@@ -470,15 +470,15 @@ a {
           .info__slider .carousel-indicators li {
             margin-right: 1.6875rem; } }
         .info__slider .carousel-indicators li:nth-child(1) {
-          background-image: url("../../img/small/wood-sm.jpg"); }
+          background-image: url("../img/small/wood-sm.jpg"); }
         .info__slider .carousel-indicators li:nth-child(2) {
-          background-image: url("../../img/small/glass-sm.png"); }
+          background-image: url("../img/small/glass-sm.png"); }
         .info__slider .carousel-indicators li:nth-child(3) {
-          background-image: url("../../img/small/linoleum-sm.png"); }
+          background-image: url("../img/small/linoleum-sm.png"); }
         .info__slider .carousel-indicators li:nth-child(4) {
-          background-image: url("../../img/small/cloth-sm.png"); }
+          background-image: url("../img/small/cloth-sm.png"); }
         .info__slider .carousel-indicators li:nth-child(5) {
-          background-image: url("../../img/small/marble-sm.png");
+          background-image: url("../img/small/marble-sm.png");
           margin-right: 0; }
     .info__slider .carousel-control-prev,
     .info__slider .carousel-control-next {
@@ -535,20 +535,20 @@ a {
 .flow {
   background-color: #EDEDED;
   padding: 4.375rem 0 13.625rem;
-  background-image: url("../../img/small/High_Resolution_JPG-MX-Lifestyle-2346-1-sm.png");
+  background-image: url("../img/small/High_Resolution_JPG-MX-Lifestyle-2346-1-sm.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center bottom; }
   @media only screen and (min-width: 48em) {
     .flow {
       padding: 4.375rem 4rem 31.125rem;
-      background-image: url("../../img/medium/High_Resolution_JPG-MX-Lifestyle-2346-1-md.png"); }
+      background-image: url("../img/medium/High_Resolution_JPG-MX-Lifestyle-2346-1-md.png"); }
       .flow .heading ~ .text {
         width: 100%; } }
   @media only screen and (min-width: 64em) {
     .flow {
       padding: 6.25rem 0 54.125rem;
-      background-image: url("../../img/large/High_Resolution_JPG-MX-Lifestyle-2346-1-lg.png"); } }
+      background-image: url("../img/large/High_Resolution_JPG-MX-Lifestyle-2346-1-lg.png"); } }
   @media only screen and (min-width: 64em) {
     .flow__center {
       padding-left: calc(50% - 30.25rem);
@@ -740,24 +740,24 @@ a {
       height: 557px; } }
 
 .features__img-1 {
-  background-image: url("../../img/small/image-1-sm.jpg"); }
+  background-image: url("../img/small/image-1-sm.jpg"); }
   @media only screen and (min-width: 48em) {
     .features__img-1 {
-      background-image: url("../../img/medium/image-1-md.jpg"); } }
+      background-image: url("../img/medium/image-1-md.jpg"); } }
   @media only screen and (min-width: 64em) {
     .features__img-1 {
-      background-image: url("../../img/large/image-1-lg.png");
+      background-image: url("../img/large/image-1-lg.png");
       grid-column: 1/2;
       grid-row: 1/2; } }
 
 .features__img-2 {
-  background-image: url("../../img/small/image-2-sm.jpg"); }
+  background-image: url("../img/small/image-2-sm.jpg"); }
   @media only screen and (min-width: 48em) {
     .features__img-2 {
-      background-image: url("../../img/medium/image-2-md.jpg"); } }
+      background-image: url("../img/medium/image-2-md.jpg"); } }
   @media only screen and (min-width: 64em) {
     .features__img-2 {
-      background-image: url("../../img/large/image-2-lg.png");
+      background-image: url("../img/large/image-2-lg.png");
       grid-column: 2/3;
       grid-row: 2/3; } }
 
